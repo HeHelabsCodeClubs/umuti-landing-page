@@ -1,0 +1,76 @@
+.umuti-logo {
+    height: 5rem !important;
+    width: auto !important;
+}
+
+.umuti-logo img {
+    height: 80%;
+}
+
+.umuti-header {
+    height: 5rem;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+
+.umuti-header span a {
+    padding: 0 0.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #0C7995;
+}
+
+.top-banner {
+    background: url('https://res.cloudinary.com/hehe/image/upload/v1541583319/Umuti/landing-top.jpg');
+    background-size: cover;
+    height: 35rem;
+}
+
+.bottom-banner {
+    background: url('https://res.cloudinary.com/hehe/image/upload/v1535021246/Umuti/landing-bottom.jpg');
+    background-size: cover;
+    height: 35rem;
+    background-position: center;
+}
+
+.bottom-banner .landing-content .content-title{
+    color: #0C7995;
+}   
+
+.landing-content .content-title {
+    font-size: 3rem;
+    color: #FDDA41;
+    margin: 6rem 0 3rem 0;
+}
+
+.landing-content .content-title div {
+    line-height: 2.5rem;
+}
+
+.landing-content .content-btn {
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.landing-content .content-btn .blue-btn {
+    font-size: 1.1rem;
+    padding: 0.5rem 3rem;
+    border-radius: 2rem !important;
+    background: #ffffff;
+    border: 1px solid #46CADF;
+    color: #46CADF;
+}
+
+.landing-footer {
+    background: #707070;
+    padding: 1.5rem !important;
+}
+
+.landing-footer div {
+    color: #ffffff;
+}
+
+.landing-footer a {
+    color: #FDDA41;
+}
