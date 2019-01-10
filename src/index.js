@@ -11,9 +11,9 @@ class UmutiLanding extends Component {
         if (!loggedIn) {
             return (
                 <span>
-                    <a to="/signup">
+                    <Link to="/signup">
                         <button className="blue-btn">Get Started</button>
-                    </a>
+                    </Link>
                 </span>
             );
         }
